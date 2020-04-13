@@ -8,7 +8,10 @@ background-color: #eaeaee;
 background-color: #eaeaee;
 } */
 
-
+.recap {
+  padding: 30px;
+  
+}
 .badge {
     font-size: 20px;
     vertical-align: middle;
