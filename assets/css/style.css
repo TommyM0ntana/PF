@@ -963,6 +963,11 @@ a.main-button-slider {
     display: flex !important;
   }
 }
+@media (max-width: 400px) {
+  .header-area .main-nav .logo {
+    font-size: 22px;
+  }
+}
 
 /* 
 ---------------------------------------------
@@ -993,7 +998,7 @@ TRY IT ... with or without CENTER CENTER
   top: 55%;
   transform: translateY(-60%);
   text-align: center;
-  width: 43%;
+  width: 46%;
 }
 
 .welcome-area .header-text .left-text {
