@@ -998,7 +998,7 @@ TRY IT ... with or without CENTER CENTER
   top: 55%;
   transform: translateY(-60%);
   text-align: center;
-  width: 46%;
+  width: 40%;
 }
 
 .welcome-area .header-text .left-text {
@@ -1087,7 +1087,7 @@ TRY IT ... with or without CENTER CENTER
   .welcome-area .header-text p {
     text-align: center;
     color: #fff;
-    font-size: 14px;
+    font-size: 19px;
     line-height: 22px;
     margin-bottom: 40px;
   }
